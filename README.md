@@ -1,8 +1,8 @@
-**How to import ?**
+# How to import ?
 
 import polishstring
 
-**Methods Included**
+# Methods Included
 
 inf_prf(st)-->converts infix equation to prefix
 
@@ -16,6 +16,11 @@ prf_pof(st)-->converts prefix equation to postfix
 
 prf_inf(st)-->converts prefix equation to infix
 
-**Remember**
+# Remember
 
 It only supports one character as an operand
+
+# Installation
+```sh
+pip install polishstring
+```
